@@ -10,18 +10,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4776E6,100:8E54E9&height=300&section=header&text=SAI%20SANTHOSH%20KAMBHAMPATI&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20SOFTWARE%20ENGINEER%20◉%20FULL-STACK%20DEVELOPER%20◉%20ENTERPRISE%20SOLUTIONS%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4776E6,100:8E54E9&height=300&section=header&text=SANTHOSH%20KAMBHAMPATI&fontSize=55&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20SOFTWARE%20ENGINEER%20◉%20FULL-STACK%20DEVELOPER%20◉%20ENTERPRISE%20SOLUTIONS%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
 <!-- Animated Code Terminal -->
 
 ```bash
-┌─[sai@enterprise-systems]─[~/projects/financial-tech]
+┌─[santhosh@enterprise-systems]─[~/projects/financial-tech]
 └──╼ $ whoami
 Software Engineer • Full-Stack Developer • Enterprise Solutions Architect
 
-┌─[sai@enterprise-systems]─[~/achievements]
+┌─[santhosh@enterprise-systems]─[~/achievements]
 └──╼ $ ls -la
 total 4+
 drwxr-xr-x  4+ years of enterprise-grade development
@@ -31,7 +31,7 @@ drwxr-xr-x  8+ REST APIs deployed in production
 -rw-r--r--  30% processing time improvement delivered
 -rw-r--r--  18% response time optimization accomplished
 
-┌─[sai@enterprise-systems]─[~/current-mission]
+┌─[santhosh@enterprise-systems]─[~/current-mission]
 └──╼ $ cat vision.txt
 Building scalable enterprise applications that power financial innovation 🚀
 ```
@@ -45,7 +45,7 @@ Building scalable enterprise applications that power financial innovation 🚀
 <img src="https://img.shields.io/badge/📱_+1_(281)_768--8618-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
 </td>
 <td align="center" width="200px">
-<img src="https://img.shields.io/badge/📧_saisanthoshkambhampati23@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+<img src="https://img.shields.io/badge/📧_ksaisantosh2827@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
 <img src="https://img.shields.io/badge/📍_Houston,_TX-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
